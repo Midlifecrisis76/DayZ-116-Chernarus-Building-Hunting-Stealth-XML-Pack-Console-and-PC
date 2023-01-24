@@ -5404,7 +5404,7 @@
 
 
 	
-	<!-- <type name="Truck_01_Covered_Blue">
+	<type name="Truck_01_Covered_Blue">
 		<attachments chance="1.00">
 			<item name="Truck_01_Wheel" chance="1.00" />
 		</attachments>
